@@ -1,168 +1,136 @@
 {
   "version": 1,
-  "base_track": "Unravel",
-  "base_artist": "TK from Ling tosite sigure",
-  "createdAt": "2026-02-08T04:23:43.784039Z",
+  "base_track": "薄ら氷心中",
+  "base_artist": "Megumi Hayashibara",
+  "createdAt": "2026-02-08T04:23:51.660095Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Unravel (Pocket mix)",
-      "artist": "Radiohead",
-      "has_synced": false,
-      "path": "select/01_Unravel_(Pocket_mix)_Radiohead.txt"
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/01_薄ら氷心中_Megumi_Hayashibara.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Björk",
+      "title": "薄ら氷心中",
+      "artist": "林原めぐみ",
       "has_synced": true,
-      "path": "select/02_Unravel_Björk.lrc"
+      "path": "select/02_薄ら氷心中_林原めぐみ.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Björk & Brodsky Quartet",
-      "has_synced": false,
-      "path": "select/03_Unravel_Björk_&_Brodsky_Quartet.txt"
+      "title": "薄ら氷心中",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_薄ら氷心中_Sheena_Ringo.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Björk",
+      "title": "薄ら氷心中",
+      "artist": "椎名林檎",
       "has_synced": true,
-      "path": "select/04_Unravel_Björk.lrc"
+      "path": "select/04_薄ら氷心中_椎名林檎.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Björk",
+      "title": "薄ら氷心中",
+      "artist": "林原めぐみ",
       "has_synced": true,
-      "path": "select/05_Unravel_Björk.lrc"
+      "path": "select/05_薄ら氷心中_林原めぐみ.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "KiloWatts & Vanek",
+      "title": "薄ら氷心中",
+      "artist": "Hayashibara, Megumi",
       "has_synced": true,
-      "path": "select/06_Unravel_KiloWatts_&_Vanek.lrc"
+      "path": "select/06_薄ら氷心中_Hayashibara,_Megumi.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "unravel",
-      "artist": "TK from Ling tosite sigure",
+      "title": "薄ら氷心中",
+      "artist": "Shiina Ringo",
       "has_synced": true,
-      "path": "select/07_unravel_TK_from_Ling_tosite_sigure.lrc"
+      "path": "select/07_薄ら氷心中_Shiina_Ringo.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "unravel",
-      "artist": "TK from 凛として時雨",
+      "title": "薄ら氷心中",
+      "artist": "椎名林檎",
       "has_synced": true,
-      "path": "select/08_unravel_TK_from_凛として時雨.lrc"
+      "path": "select/08_薄ら氷心中_椎名林檎.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "TK from Ling tosite sigure",
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
       "has_synced": true,
-      "path": "select/09_Unravel_TK_from_Ling_tosite_sigure.lrc"
+      "path": "select/09_薄ら氷心中_Megumi_Hayashibara.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "unravel (acoustic version)",
-      "artist": "TK from Ling tosite sigure",
+      "title": "薄ら氷心中 - A Double Suicide",
+      "artist": "Sheena Ringo",
       "has_synced": true,
-      "path": "select/10_unravel_(acoustic_version)_TK_from_Ling_tosite_sigure.lrc"
+      "path": "select/10_薄ら氷心中_-_A_Double_Suicide_Sheena_Ringo.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "TK from Ling tosite sigure",
+      "title": "薄ら氷心中",
+      "artist": "Megumi Hayashibara",
       "has_synced": true,
-      "path": "select/11_Unravel_TK_from_Ling_tosite_sigure.lrc"
+      "path": "select/11_薄ら氷心中_Megumi_Hayashibara.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Unravel",
-      "artist": "TK from 凛として時雨",
+      "title": "薄ら氷心中 (Paused)",
+      "artist": "Sheena Ringo",
       "has_synced": true,
-      "path": "select/12_Unravel_TK_from_凛として時雨.lrc"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Unravel (Acoustic Version)",
-      "artist": "TK from 凛として時雨",
-      "has_synced": true,
-      "path": "select/13_Unravel_(Acoustic_Version)_TK_from_凛として時雨.lrc"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Björk",
-      "has_synced": true,
-      "path": "select/14_Unravel_Björk.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Bjork",
-      "has_synced": true,
-      "path": "select/15_Unravel_Bjork.lrc"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Bjork",
-      "has_synced": true,
-      "path": "select/16_Unravel_Bjork.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "unravel",
-      "artist": "TK from 凛として時雨",
-      "has_synced": true,
-      "path": "select/17_unravel_TK_from_凛として時雨.lrc"
-    },
-    {
-      "id": "lrclib_18",
-      "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Lissie",
-      "has_synced": true,
-      "path": "select/18_Unravel_Lissie.lrc"
-    },
-    {
-      "id": "lrclib_19",
-      "source": "lrclib",
-      "title": "Unravel",
-      "artist": "Toru Kitajima feat. OmegaVibe",
-      "has_synced": false,
-      "path": "select/19_Unravel_Toru_Kitajima_feat._OmegaVibe.txt"
+      "path": "select/12_薄ら氷心中_(Paused)_Sheena_Ringo.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "UNRAVEL",
-      "artist": "TK from Ling tosite sigure",
+      "title": "薄ら氷心中",
+      "artist": "林原 めぐみ",
       "has_synced": false,
-      "path": "select/pl_01_UNRAVEL_TK_from_Ling_tosite_sigure.txt"
+      "path": "select/pl_01_薄ら氷心中_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "薄ら氷心中",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_02_薄ら氷心中_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "薄ら氷心中",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_03_薄ら氷心中_林原_めぐみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "薄ら氷心中",
+      "artist": "林原 めぐみ",
+      "has_synced": false,
+      "path": "select/pl_04_薄ら氷心中_林原_めぐみ.txt"
     }
   ]
 }
